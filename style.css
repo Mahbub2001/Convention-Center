@@ -3,3 +3,9 @@ footer{
     color: white;
     height: 280px;
 }
+.accordion-div{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    justify-content: center;
+    align-items: center;
+}
